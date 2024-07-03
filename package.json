@@ -1,0 +1,41 @@
+{
+  "name": "Kuroiwa",
+  "version": "1.0.0",
+  "description": "Telegram bot made by Shinpei",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kuroiwa",
+    "Kuroiwa-Bot",
+    "Telegram-Bot",
+    "Kuroiwa-Telegram-Bot"
+  ],
+  "author": "Shinpei",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "gradient-string": "^2.0.2",
+    "http": "^0.0.1-security",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.65.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "telegram-inline-calendar": "^1.7.0",
+    "yt-search": "^2.11.0",
+    "ytdl-core": "^4.11.5",
+    "yts": "^2.0.1"
+  }
+}
